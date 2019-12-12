@@ -9,4 +9,4 @@ The architecture doesn't force a role on proxy (as a side-car, an intermediate o
 
 Blogs and additional documentation at - [getenroute.io](https://getenroute.io)
 
-Active repository for the project is located at https://github.io/saarasio/enroute
+Active repository for the project is located at https://github.com/saarasio/enroute
